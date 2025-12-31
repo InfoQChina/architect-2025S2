@@ -1,9 +1,9 @@
 [![官网下载](https://img.shields.io/badge/📖-立即下载电子书-FF6F61?style=for-the-badge)](https://www.infoq.cn/minibook/V8WL8Y6T5wLw4yZtmIE1)
 
-# free-architect-ebook
+#free-architect-ebook
 【🚀《架构师》（2025 年第二季）重磅发布！】
 
-## 核心亮点
+##核心亮点
 ### 1. 大厂实战案例深度拆解
 - 阿里 R2C Agent、网易多 Agent 系统落地实践
 - 快手 OneRec 推荐系统大模型重构全流程
